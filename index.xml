@@ -263,5 +263,14 @@ git submodule update --init --recursive
       <description></description>
     </item>
     
+    <item>
+      <title>Toward an Architecture for Model Composition Techniques</title>
+      <link>https://luciangoncales.github.io/publication/composition-architecture/</link>
+      <pubDate>Wed, 31 Dec 1969 22:33:35 -0200</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/composition-architecture/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
