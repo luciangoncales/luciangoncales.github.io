@@ -31,5 +31,14 @@
 However, some problems are critical to the proper functioning and evaluation of the effectiveness of modeling techniques, such as: (i) how model composition assessment strategies are rigid and imprecise; (ii) the techniques do not guarantee the absence of inconsistencies and do not detect the side effects of such inconsistencies in the models; and (iii) the techniques do not guarantee the effectiveness of the compositions.</description>
     </item>
     
+    <item>
+      <title>Digital Modeling of Outcrops Using GPU - MODA</title>
+      <link>https://luciangoncales.github.io/project/moda/</link>
+      <pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/project/moda/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
