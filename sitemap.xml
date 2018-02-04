@@ -50,15 +50,6 @@
     
     <url>
     
-      <loc>https://luciangoncales.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://luciangoncales.github.io/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -70,6 +61,24 @@
     
       <loc>https://luciangoncales.github.io/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/project/deep-learning/</loc>
+      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/project/model-comparison/</loc>
+      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -142,16 +151,6 @@
     
     <url>
     
-      <loc>https://luciangoncales.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://luciangoncales.github.io/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -172,6 +171,26 @@
     
     <url>
     
+      <loc>https://luciangoncales.github.io/tags/mde/</loc>
+      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/tags/model-composition/</loc>
+      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://luciangoncales.github.io/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -184,6 +203,16 @@
     
       <loc>https://luciangoncales.github.io/publication_types/</loc>
       <lastmod>2015-08-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/tags/software-design-models/</loc>
+      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

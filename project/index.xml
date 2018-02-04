@@ -13,21 +13,32 @@
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://luciangoncales.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://luciangoncales.github.io/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
-    </item>
-    
-    <item>
       <title>External Project</title>
       <link>https://luciangoncales.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://luciangoncales.github.io/project/example-external-project/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Composition of Software Design Models: Metrics and Experimental Studies</title>
+      <link>https://luciangoncales.github.io/project/deep-learning/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/project/deep-learning/</guid>
+      <description>Model composition plays a key role in many Software Engineering activities, for example, in the evolution of software models to add new features. Given the context, many techniques for composition of software models have arisen to support the integration of design models, enhance the maintainability of software artifacts, and minimize the effort invested by developers.
+However, some problems are critical to the proper functioning and evaluation of the effectiveness of modeling techniques, such as: (i) how model composition assessment strategies are rigid and imprecise; (ii) the techniques do not guarantee the absence of inconsistencies and do not detect the side effects of such inconsistencies in the models; and (iii) the techniques do not guarantee the effectiveness of the compositions.</description>
+    </item>
+    
+    <item>
+      <title>Composition of Software Design Models: Metrics and Experimental Studies</title>
+      <link>https://luciangoncales.github.io/project/model-comparison/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/project/model-comparison/</guid>
+      <description>Model composition plays a key role in many Software Engineering activities, for example, in the evolution of software models to add new features. Given the context, many techniques for composition of software models have arisen to support the integration of design models, enhance the maintainability of software artifacts, and minimize the effort invested by developers.
+However, some problems are critical to the proper functioning and evaluation of the effectiveness of modeling techniques, such as: (i) how model composition assessment strategies are rigid and imprecise; (ii) the techniques do not guarantee the absence of inconsistencies and do not detect the side effects of such inconsistencies in the models; and (iii) the techniques do not guarantee the effectiveness of the compositions.</description>
     </item>
     
   </channel>
