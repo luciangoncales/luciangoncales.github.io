@@ -219,22 +219,6 @@ git submodule update --init --recursive
     
     <item>
       <title>Composition of Software Design Models: Metrics and Experimental Studies</title>
-      <link>https://luciangoncales.github.io/project/deep-learning/</link>
-      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://luciangoncales.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;Model composition plays a key role in many Software Engineering activities, for example, in the evolution of software models to add new features. Given the context, many techniques for composition of software models have arisen to support the integration of design models, enhance the maintainability of software artifacts, and minimize the effort invested by developers.&lt;/p&gt;
-
-&lt;p&gt;However, some problems are critical to the proper functioning and evaluation of the effectiveness of modeling techniques, such as: (i) how model composition assessment strategies are rigid and imprecise; (ii) the techniques do not guarantee the absence of inconsistencies and do not detect the side effects of such inconsistencies in the models; and (iii) the techniques do not guarantee the effectiveness of the compositions.&lt;/p&gt;
-
-&lt;p&gt;Thus, two general objectives are identified: (i) to define a flexible way of evaluating the composition of models effectively; and (ii) produce empirical evidence on the development of software systems.&lt;/p&gt;
-
-&lt;p&gt;The expected results are: (1) a quality model for the composition of software models; (2) empirical knowledge of the composition effort and the factors that influence a practice of integrated models; (3) a catalog of inconsistency patterns in models of evolutionary software systems; (4) algorithms capable of detecting and solving inconsistencies; (5) a tool to support the composition of software models; and (6) scientific articles to be published at top-level conferences in Software Engineering.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Composition of Software Design Models: Metrics and Experimental Studies</title>
       <link>https://luciangoncales.github.io/project/model-comparison/</link>
       <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
       
