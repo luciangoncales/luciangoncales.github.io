@@ -37,7 +37,7 @@ However, some problems are critical to the proper functioning and evaluation of 
       <pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>https://luciangoncales.github.io/project/moda/</guid>
-      <description></description>
+      <description>The study of similar outcrops is one of the main tools used to characterize the heterogeneity of oil reservoirs. For this purpose, it is possible to use the Laser Scanner who captures three-dimensional points as well as images of the surface of the outcrop. This new technique of digital mapping allows the acquisition of an enormous amount of points. Thus, the main objective of the project is to develop a digital geological modeler based on GPU (Graphics Processing Unit), capable of reading huge volumes of data from the Laser Scanner, rendering them and visualizing them in real time.</description>
     </item>
     
   </channel>
