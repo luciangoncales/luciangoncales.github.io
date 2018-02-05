@@ -11,11 +11,47 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Modeling Composition of UML Profiles with Alloy</title>
+      <link>https://luciangoncales.github.io/publication/composition-alloy/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/composition-alloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Toward an Architecture for Comparing UML Design Models</title>
       <link>https://luciangoncales.github.io/publication/comparison-arch/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://luciangoncales.github.io/publication/comparison-arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Architecture for Integration of Feature Models</title>
+      <link>https://luciangoncales.github.io/publication/tool-integration-features/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/tool-integration-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Inconsistences in Multi-view UML Models</title>
+      <link>https://luciangoncales.github.io/publication/inconsistencies-multiview-uml/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/inconsistencies-multiview-uml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Design Models: A Systematic Mapping Study</title>
+      <link>https://luciangoncales.github.io/publication/comparison-design-models/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/comparison-design-models/</guid>
       <description></description>
     </item>
     
@@ -79,6 +115,15 @@
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://luciangoncales.github.io/publication/clothing-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A programming model oriented to the development of ubiquitous systems</title>
+      <link>https://luciangoncales.github.io/publication/uop/</link>
+      <pubDate>Wed, 31 Dec 1969 22:33:34 -0200</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/uop/</guid>
       <description></description>
     </item>
     
