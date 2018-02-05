@@ -90,6 +90,15 @@
     </item>
     
     <item>
+      <title>A programming model oriented to the development of ubiquitous systems</title>
+      <link>https://luciangoncales.github.io/publication/uop/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/uop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Digital Modeling of Outcrops Using GPU - MODA</title>
       <link>https://luciangoncales.github.io/project/moda/</link>
       <pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate>
@@ -97,15 +106,6 @@
       <guid>https://luciangoncales.github.io/project/moda/</guid>
       <description>&lt;p&gt;The study of similar outcrops is one of the main tools used to characterize the heterogeneity of oil reservoirs. For this purpose, it is possible to use the Laser Scanner who captures three-dimensional points as well as images of the surface of the outcrop. This new technique of digital mapping allows the acquisition of an enormous amount of points. Thus, the main objective of the project is to develop a digital geological modeler based on GPU (Graphics Processing Unit), capable of reading huge volumes of data from the Laser Scanner, rendering them and visualizing them in real time. In addition, techniques for 3D projection, measurement, interpretation and data sharing with other tools will be studied and developed, as well as the utilization of mobile devices to analyze geologic assets. Another challenge of the project is to recover voids in the cloud of points, caused by occlusion of vegetation and shadows.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A programming model oriented to the development of ubiquitous systems</title>
-      <link>https://luciangoncales.github.io/publication/uop/</link>
-      <pubDate>Wed, 31 Dec 1969 22:33:34 -0200</pubDate>
-      
-      <guid>https://luciangoncales.github.io/publication/uop/</guid>
-      <description></description>
     </item>
     
   </channel>
