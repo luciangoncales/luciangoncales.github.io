@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Lucian Gonçales</title>
-    <link>https://luciangoncales.github.io/publication/</link>
-    <description>Recent content in Publications on Lucian Gonçales</description>
+    <title>2 on Lucian Gonçales</title>
+    <link>https://luciangoncales.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Lucian Gonçales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://luciangoncales.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luciangoncales.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -54,24 +54,6 @@
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://luciangoncales.github.io/publication/comparison-design-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Comparison: A Sistematic Mapping Study</title>
-      <link>https://luciangoncales.github.io/publication/model-comparison-sms/</link>
-      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://luciangoncales.github.io/publication/model-comparison-sms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toward an Architecture for Model Composition Techniques</title>
-      <link>https://luciangoncales.github.io/publication/composition-architecture/</link>
-      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://luciangoncales.github.io/publication/composition-architecture/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lucian Gonçales</title>
+    <link>https://luciangoncales.github.io/tags/</link>
+    <description>Recent content in Tags on Lucian Gonçales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://luciangoncales.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://luciangoncales.github.io/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>MDE</title>
+      <link>https://luciangoncales.github.io/tags/mde/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/tags/mde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Composition</title>
+      <link>https://luciangoncales.github.io/tags/model-composition/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/tags/model-composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Design Models</title>
+      <link>https://luciangoncales.github.io/tags/software-design-models/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/tags/software-design-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>https://luciangoncales.github.io/tags/gpu/</link>
+      <pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcrops</title>
+      <link>https://luciangoncales.github.io/tags/outcrops/</link>
+      <pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/tags/outcrops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siagri</title>
+      <link>https://luciangoncales.github.io/tags/siagri/</link>
+      <pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/tags/siagri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

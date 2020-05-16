@@ -1,11 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     
     <url>
     
+      <loc>https://luciangoncales.github.io/publication_types/2/</loc>
+      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/</loc>
+      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://luciangoncales.github.io/publication/composition-alloy/</loc>
+      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/publication_types/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -33,6 +59,15 @@
     <url>
     
       <loc>https://luciangoncales.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,6 +112,51 @@
     
     <url>
     
+      <loc>https://luciangoncales.github.io/tags/mde/</loc>
+      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/tags/model-composition/</loc>
+      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/project/</loc>
+      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/tags/software-design-models/</loc>
+      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://luciangoncales.github.io/publication_types/1/</loc>
+      <lastmod>2015-08-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://luciangoncales.github.io/publication/model-comparison-sms/</loc>
       <lastmod>2015-08-04T00:00:00+00:00</lastmod>
     </url>
@@ -113,68 +193,8 @@
     
     <url>
     
-      <loc>https://luciangoncales.github.io/publication_types/1/</loc>
-      <lastmod>2015-08-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://luciangoncales.github.io/publication_types/2/</loc>
-      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://luciangoncales.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://luciangoncales.github.io/tags/gpu/</loc>
       <lastmod>2014-02-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://luciangoncales.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://luciangoncales.github.io/tags/mde/</loc>
-      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://luciangoncales.github.io/tags/model-composition/</loc>
-      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -184,27 +204,6 @@
     
       <loc>https://luciangoncales.github.io/tags/outcrops/</loc>
       <lastmod>2014-02-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://luciangoncales.github.io/project/</loc>
-      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://luciangoncales.github.io/publication_types/</loc>
-      <lastmod>2015-08-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -214,7 +213,6 @@
     
       <loc>https://luciangoncales.github.io/tags/siagri/</loc>
       <lastmod>2014-02-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -222,19 +220,7 @@
     
     <url>
     
-      <loc>https://luciangoncales.github.io/tags/software-design-models/</loc>
-      <lastmod>2015-11-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://luciangoncales.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>https://luciangoncales.github.io/categories/</loc>
     </url>
     
   

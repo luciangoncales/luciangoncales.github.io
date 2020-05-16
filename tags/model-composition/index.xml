@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Composition on Lucian Gonçales</title>
+    <link>https://luciangoncales.github.io/tags/model-composition/</link>
+    <description>Recent content in Model Composition on Lucian Gonçales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 10 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://luciangoncales.github.io/tags/model-composition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Composition of Software Design Models: Metrics and Experimental Studies</title>
+      <link>https://luciangoncales.github.io/project/model-comparison/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/project/model-comparison/</guid>
+      <description>Model composition plays a key role in many Software Engineering activities, for example, in the evolution of software models to add new features. Given the context, many techniques for composition of software models have arisen to support the integration of design models, enhance the maintainability of software artifacts, and minimize the effort invested by developers. However, there are many problems related to the composition of software design models such as, the imprecision and rigity of model composition assessment, and the lack of effectiveness on composition. For this, this project has the objective of (i) defining a flexible way of evaluating the composition of models effectively; and (ii) producing empirical evidence on the development of software systems.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Lucian Gonçales</title>
+    <link>https://luciangoncales.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Lucian Gonçales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 04 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://luciangoncales.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Model Comparison: A Sistematic Mapping Study</title>
+      <link>https://luciangoncales.github.io/publication/model-comparison-sms/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/model-comparison-sms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an Architecture for Model Composition Techniques</title>
+      <link>https://luciangoncales.github.io/publication/composition-architecture/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/composition-architecture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
