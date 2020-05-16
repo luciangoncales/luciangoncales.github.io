@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucian Gonçales on Lucian Gonçales</title>
@@ -6,25 +7,105 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Publications</title>
-      <link>https://luciangoncales.github.io/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Modeling Composition of UML Profiles with Alloy</title>
+      <link>https://luciangoncales.github.io/publication/composition-alloy/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://luciangoncales.github.io/publication/</guid>
+      <guid>https://luciangoncales.github.io/publication/composition-alloy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://luciangoncales.github.io/project/</link>
+      <title>Toward an Architecture for Comparing UML Design Models</title>
+      <link>https://luciangoncales.github.io/publication/comparison-arch/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/comparison-arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Architecture for Integration of Feature Models</title>
+      <link>https://luciangoncales.github.io/publication/tool-integration-features/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/tool-integration-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Inconsistences in Multi-view UML Models</title>
+      <link>https://luciangoncales.github.io/publication/inconsistencies-multiview-uml/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/inconsistencies-multiview-uml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Design Models: A Systematic Mapping Study</title>
+      <link>https://luciangoncales.github.io/publication/comparison-design-models/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/comparison-design-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composition of Software Design Models: Metrics and Experimental Studies</title>
+      <link>https://luciangoncales.github.io/project/model-comparison/</link>
       <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://luciangoncales.github.io/project/</guid>
+      <guid>https://luciangoncales.github.io/project/model-comparison/</guid>
+      <description>&lt;p&gt;Model composition plays a key role in many Software Engineering activities, for example, in the evolution of software models to add new features. Given the context, many techniques for composition of software models have arisen to support the integration of design models, enhance the maintainability of software artifacts, and minimize the effort invested by developers.&lt;/p&gt;
+
+&lt;p&gt;However, some problems are critical to the proper functioning and evaluation of the effectiveness of modeling techniques, such as: (i) how model composition assessment strategies are rigid and imprecise; (ii) the techniques do not guarantee the absence of inconsistencies and do not detect the side effects of such inconsistencies in the models; and (iii) the techniques do not guarantee the effectiveness of the compositions.&lt;/p&gt;
+
+&lt;p&gt;Thus, two general objectives are identified: (i) to define a flexible way of evaluating the composition of models effectively; and (ii) produce empirical evidence on the development of software systems.&lt;/p&gt;
+
+&lt;p&gt;The expected results are: (1) a quality model for the composition of software models; (2) empirical knowledge of the composition effort and the factors that influence a practice of integrated models; (3) a catalog of inconsistency patterns in models of evolutionary software systems; (4) algorithms capable of detecting and solving inconsistencies; (5) a tool to support the composition of software models; and (6) scientific articles to be published at top-level conferences in Software Engineering.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Model Comparison: A Sistematic Mapping Study</title>
+      <link>https://luciangoncales.github.io/publication/model-comparison-sms/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/model-comparison-sms/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an Architecture for Model Composition Techniques</title>
+      <link>https://luciangoncales.github.io/publication/composition-architecture/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/composition-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A programming model oriented to the development of ubiquitous systems</title>
+      <link>https://luciangoncales.github.io/publication/uop/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/publication/uop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Modeling of Outcrops Using GPU - MODA</title>
+      <link>https://luciangoncales.github.io/project/moda/</link>
+      <pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciangoncales.github.io/project/moda/</guid>
+      <description>&lt;p&gt;The study of similar outcrops is one of the main tools used to characterize the heterogeneity of oil reservoirs. For this purpose, it is possible to use the Laser Scanner who captures three-dimensional points as well as images of the surface of the outcrop. This new technique of digital mapping allows the acquisition of an enormous amount of points. Thus, the main objective of the project is to develop a digital geological modeler based on GPU (Graphics Processing Unit), capable of reading huge volumes of data from the Laser Scanner, rendering them and visualizing them in real time. In addition, techniques for 3D projection, measurement, interpretation and data sharing with other tools will be studied and developed, as well as the utilization of mobile devices to analyze geologic assets. Another challenge of the project is to recover voids in the cloud of points, caused by occlusion of vegetation and shadows.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

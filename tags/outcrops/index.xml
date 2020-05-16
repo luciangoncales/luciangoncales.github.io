@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Outcrops on Lucian Gonçales</title>
@@ -18,7 +18,7 @@
       <pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>https://luciangoncales.github.io/project/moda/</guid>
-      <description>The study of similar outcrops is one of the main tools used to characterize the heterogeneity of oil reservoirs. For this purpose, it is possible to use the Laser Scanner who captures three-dimensional points as well as images of the surface of the outcrop. This new technique of digital mapping allows the acquisition of an enormous amount of points. Thus, the main objective of the project is to develop a digital geological modeler based on GPU (Graphics Processing Unit), capable of reading huge volumes of data from the Laser Scanner, rendering them and visualizing them in real time. In addition, techniques for 3D projection, measurement, interpretation and data sharing with other tools will be studied and developed, as well as the utilization of mobile devices to analyze geologic assets. Another challenge of the project is to recover voids in the cloud of points, caused by occlusion of vegetation and shadows.</description>
+      <description>The study of similar outcrops is one of the main tools used to characterize the heterogeneity of oil reservoirs. For this purpose, it is possible to use the Laser Scanner who captures three-dimensional points as well as images of the surface of the outcrop. This new technique of digital mapping allows the acquisition of an enormous amount of points. Thus, the main objective of the project is to develop a digital geological modeler based on GPU (Graphics Processing Unit), capable of reading huge volumes of data from the Laser Scanner, rendering them and visualizing them in real time.</description>
     </item>
     
   </channel>
