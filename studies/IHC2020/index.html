@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.0.1">
+    <title>Classificação de Compreensão de Código a partir de dados EEG</title>
+
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/navbar-fixed/">
+
+    
+    <!-- Bootstrap core CSS -->
+   <link type="text/css" href="css/bootstrap.css" rel="stylesheet">
+
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    
+      .table.sticky th{
+        position: sticky;
+        top:0;
+      } 
+
+      #backColor{
+        display: block;
+        margin-top: 0em;
+        margin-bottom: 0em;
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid #4A5D70;
+        border-style: inset;
+        border-width: 0.2px;
+      }
+
+      #initialfooter{
+        margin-bottom: 0;
+        margin-top: 0px;
+        height: 100px;
+        width: 100% !important;
+        background-color: #343a40;
+      }
+      
+      #initialfooter p{
+        font-size: 1em !important;
+        padding-top: 40px;
+        color:#fff;
+        text-align:center;
+      }
+    </style>
+    <!-- style="padding:50px 0;"-->
+    <!-- style="background-color:white;"-->
+    <!-- Custom styles for this template -->
+    <link type="text/css" href="css/navbar-top-fixed.css" rel="stylesheet">
+  </head>
+  <body>
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+          <a class="navbar-brand" href="#">Tarefas de Compreensão de Código - IHC 2020</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#abstract">Resumo</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#ps">Tarefas</a>
+          </li>
+          <!--<li class="nav-item">
+            <a class="nav-link" href="#extracted">Data Extraction</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          </li>-->
+        </ul>
+        <!-- <form class="form-inline mt-2 mt-md-0">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form> -->
+      </div>
+    </nav>
+
+    </br>
+    </br>
+
+<div class="container">
+  <a id="abstract"></a>
+  <h1 class="text-center">Material Suplementar - IHC 2020</h1>
+   </br>
+    <p class="text-center"> 
+Contextualização: Dados psicofisiológicos dos usuários, tais como as ondas cerebrais já foram utilizadas com técnicas de aprendizado de máquina, para identificar o nível de conhecimento, e de dificuldade dos desenvolvedores de software. Problema: Porém, pouco se sabe sobre o desempenho das técnicas de aprendizado de máquina para classificar a compreensão de código baseado em ondas cerebrais dos desenvolvedores. Objetivo: Este estudo avalia o desempenho de técnicas de aprendizado de máquina em conjunto com dados psicofisiológicos para classificar situações de compreensão de códigos por desenvolvedores de software. Método: Um aparelho de EEG wireless foi utilizado para coletar ondas cerebrais de desenvolvedores de software enquanto executavam tarefas de compreensão de código. Ao todo, cada um dos 35 participantes executou 10 tarefas de compreensão. A partir desse conjunto de dados gerado, as técnicas de Rede Neural (NN), Support Vector Machine (SVM), Naïve Bayes (NB) e Random Forrest (RF) foram treinadas. A eficácia dessas técnicas foi analisada através das métricas de acurácia, precisão e recall. Resultados: Entre as técnicas de aprendizado de máquina, o classificador de rede neural de quatro camadas, treinado com dados de EEG e reduzidos com Principal Component Analysis (PCA), obteve uma precisão de 84% para classificar situações de compreensão de código dos desenvolvedores de software. Conclusão: Os resultados apresentam o potencial das técnicas de aprendizado de máquina em classificar a compreensão de código baseados nos dados EEG dos desenvolvedores.
+    </p>
+    </br>
+     
+</div>
+
+<a id="ps"></a>
+<div class=".col-lg-">
+<h3>A1. Tarefas de compreensão executadas pelos desenvolvedores</h3>
+<table id="table2" class="table table-hover">
+  <thead>
+  <tr>
+    <th scope="col" style="background: white">ID</th>
+    <th scope="col" style="background: white">Tarefa</th>
+  <tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width: 150px;"><b>[Tarefa 01]</b></td>
+      <td><img src="images/tarefa1.jpg" class="img-fluid" alt="Responsive image"></td>
+    </tr>
+    <tr>
+      <td style="width: 150px;"><b>[Tarefa 02]</b></td>
+      <td><img src="images/tarefa2.jpg" class="img-fluid" alt="Responsive image"></td>
+    </tr>
+    <tr>
+      <td style="width: 150px;"><b>[Tarefa 03]</b></td>
+      <td><img src="images/tarefa3.jpg" class="img-fluid" alt="Responsive image"></td>
+    </tr>
+        <tr>
+      <td style="width: 150px;"><b>[Tarefa 04]</b></td>
+      <td><img src="images/tarefa4.jpg" class="img-fluid" alt="Responsive image"></td>
+    </tr>
+    <tr>
+      <td style="width: 150px;"><b>[Tarefa 05]</b></td>
+      <td><img src="images/tarefa5.jpg" class="img-fluid" alt="Responsive image"></td>
+    </tr>
+    <tr>
+      <td style="width: 150px;"><b>[Tarefa 06]</b></td>
+      <td><img src="images/tarefa6.jpg" class="img-fluid" alt="Responsive image"></td>
+    </tr>
+    </tr>
+        <tr>
+      <td style="width: 150px;"><b>[Tarefa 07]</b></td>
+      <td><img src="images/tarefa7.jpg" class="img-fluid" alt="Responsive image"></td>
+    </tr>
+    <tr>
+      <td style="width: 150px;"><b>[Tarefa 08]</b></td>
+      <td><img src="images/tarefa8.jpg" class="img-fluid" alt="Responsive image"></td>
+    </tr>
+    <tr>
+      <td style="width: 150px;"><b>[Tarefa 09]</b></td>
+      <td><img src="images/tarefa9.jpg" class="img-fluid" alt="Responsive image"></td>
+    </tr>
+    <tr>
+      <td style="width: 150px;"><b>[Tarefa 10]</b></td>
+      <td><img src="images/tarefa10.jpg" class="img-fluid" alt="Responsive image"></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class=".col-lg- mt-0 mb-0">
+<a id="extracted"></a>
+
+</div>
+<!--<main role="main" class="container">
+  <div class="jumbotron">
+    <h1>Navbar example</h1>
+    <p class="lead">This example is a quick exercise to illustrate how fixed to top navbar works. As you scroll, it will remain fixed to the top of your browser’s viewport.</p>
+    <a class="btn btn-lg btn-primary" href="../components/navbar/" role="button">View navbar docs &raquo;</a>
+  </div>
+</main>-->
+<!-- Footer -->
+<hr id="backColor">
+<div id="initialfooter">
+  <p id="initialfooter"><i>Material suplementar do artigo submetido a IHC 2020</i></p>
+</div>
+
+
+
+<script
+  src="https://code.jquery.com/jquery-3.5.1.js"
+  integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+  crossorigin="anonymous"></script>
+<!--<script
+  src="https://code.jquery.com/jquery-2.2.2.js"
+  integrity="sha256-4/zUCqiq0kqxhZIyp4G0Gk+AOtCJsY1TA00k5ClsZYE="
+  crossorigin="anonymous"></script>-->
+
+<!--<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>-->
+
+      <script>window.jQuery || document.write('<script src="../js/jquery.slim.min.js"><\/script>')</script><script type="text/javascript" src="js/bootstrap.bundle.js"></script></body>
+
+<script type="text/javascript" src="js/jquery.freezeheader.js"></script>
+
+<script type="text/javascript">
+   $(document).ready(function () {
+       $("#table1").freezeHeader({ offset:'50px' })
+    })
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+       $("#table2").freezeHeader({ offset:'50px' })
+    })
+</script>
+
+<script type="text/javascript">
+
+  var lastId,
+      topMenu = $("#navbarCollapse"),
+      topMenuHeight = topMenu.outerHeight()+15,
+      menuItems = topMenu.find("a"),
+      scrollItems = menuItems.map(function(){
+        var item = $($(this).attr("href"));
+        if (item.length) { return item; }
+      });
+
+  menuItems.click(function(e){
+    var href = $(this).attr("href"),
+        offsetTop = href === "#" ? 0 : $(href).offset().top-topMenuHeight+1;
+    $('html, body').stop().animate({ 
+        scrollTop: offsetTop
+    }, 300);
+    e.preventDefault();
+  });
+
+  $(window).scroll(function(){
+     var fromTop = $(this).scrollTop()+topMenuHeight;
+     
+     var cur = scrollItems.map(function(){
+       if ($(this).offset().top < fromTop)
+         return this;
+     });
+     cur = cur[cur.length-1];
+     var id = cur && cur.length ? cur[0].id : "";
+     
+     if (lastId !== id) {
+         lastId = id;
+         menuItems
+           .parent().removeClass("active")
+           .end().filter("[href='#"+id+"']").parent().addClass("active");
+     }                   
+  });
+
+</script>
+<!--
+<script type="text/javascript">
+   $('.navbar-nav .nav-item a').click(function () {
+       $(this).closest('.nav-item').siblings().removeClass('active')
+       $(this).closest('.nav-item').addClass('active')
+    }) 
+</script>
+-->
+</body>
+</html>
